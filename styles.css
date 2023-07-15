@@ -117,6 +117,7 @@ html {
     }
     .navbar__links:hover {
         color:#B76C4D;
+        transition: all 0.3s ease;
     }
 
     .navbar__menu {
