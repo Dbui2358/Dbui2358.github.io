@@ -115,6 +115,9 @@ html {
         max-width: 1300px;
         padding: 0;
     }
+    .navbar__links:hover {
+        color:#B76C4D;
+    }
 
     .navbar__menu {
         display: grid;
